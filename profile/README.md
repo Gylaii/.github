@@ -31,7 +31,7 @@ We create routes that:
 - The guilt of eating something delicious without moving afterward
 - Feeling like a tourist in your own city because you never explore it
 
-[See the full concept →](link-to-concept-doc)
+[See the full concept →](./CONCEPT.md)
 
 </details>
 
